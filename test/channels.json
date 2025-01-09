@@ -1,0 +1,913 @@
+{
+  "Title": "Guide - Eternity Ready TV",
+  "Number of channels": 81,
+  "channels": [
+    {
+      "name": "KSCE Life! End Times TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/8.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=d0de033ae",
+      "keywords": ["beatles"],
+      "rating": 4,
+      "categories": [
+        "Bible Prophecy",
+	    "Mideast",
+	    "News + Opinions"
+      ]
+    },
+    {
+      "name": "Impact Network",
+      "logo": "https://tv.eternityready.com/img/logos_2/9.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=da655e915",
+      "keywords": [""],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "Amazing Facts TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/10.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=ab370811d",
+      "keywords": [""],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "THE WALK TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/11.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=71f07fdfa",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "MNN SPIRIT CHANNEL",
+      "logo": "https://tv.eternityready.com/img/logos_2/13.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=35debe646",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "3ABN Russia",
+      "logo": "https://tv.eternityready.com/img/logos_2/14.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=0b11d8f4a",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "International"
+      ]
+    },
+    {
+      "name": "Ihop (24/7 Prayer & Worship)",
+      "logo": "https://tv.eternityready.com/img/logos_2/74.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=52a6b8f52",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Bible Prophecy"
+      ]
+    },
+    {
+      "name": "SAT7 PARS",
+      "logo": "https://tv.eternityready.com/img/logos_2/15.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=09bf91b4f",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "International"
+      ]
+    },
+    {
+      "name": "SAT7 TURK",
+      "logo": "https://tv.eternityready.com/img/logos_2/16.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=e1b5445e5",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "International",
+        "Mideast"
+      ]
+    },
+    {
+      "name": "SAT7 ARABIC",
+      "logo": "https://tv.eternityready.com/img/logos_2/17.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=c420af687",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "International",
+        "Mideast"
+      ]
+    },
+    {
+      "name": "GOOD LIFE 45",
+      "logo": "https://tv.eternityready.com/img/logos_2/18.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=9c79714be",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "Spirit TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/19.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=7a41c1604",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "GEB America",
+      "logo": "https://tv.eternityready.com/img/logos_2/20.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=de3fe34ec",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "SonLife TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/21.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=40f3ca716",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "World Harvest Television",
+      "logo": "https://tv.eternityready.com/img/logos_2/22.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=6981bd7f4",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "Living Faith TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/23.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=0572ef0e6",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "Firstlight",
+      "logo": "https://tv.eternityready.com/img/logos_2/24.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=c43a4b22a",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "Day Star",
+      "logo": "https://tv.eternityready.com/img/logos_2/25.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=74e424682",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "3ABN",
+      "logo": "https://tv.eternityready.com/img/logos_2/26.jpg",
+      "link": "n",
+      "embed": "https://www.eternityready.com/embed.php?vid=8eecc7e0b",
+      "keywords": ["help"],
+      "rating": 5,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "Smart Life Style TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/27.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=ecd432cbf",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "TCT HD",
+      "logo": "https://tv.eternityready.com/img/logos_2/28.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=def0ec2f6",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "Christian Television Network",
+      "logo": "https://tv.eternityready.com/img/logos_2/29.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=e20a1cd79",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "God's Learning Channel",
+      "logo": "https://tv.eternityready.com/img/logos_2/30.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=03bd5c9cc",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "Emmanuel TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/31.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=68fdb8e3e",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "NEW HOPE TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/32.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=48a04bca0",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "Bible Discovery TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/33.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=eb0b5da1a",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "WOCB",
+      "logo": "https://tv.eternityready.com/img/logos_2/34.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=a3fe740b4",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "3ABN Francias",
+      "logo": "https://tv.eternityready.com/img/logos_2/35.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=16b36c40d",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "International"
+      ]
+    },
+    {
+      "name": "3ABN Latino",
+      "logo": "https://tv.eternityready.com/img/logos_2/36.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=649c6b31f",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "International"
+      ]
+    },
+    {
+      "name": "3ABN International",
+      "logo": "https://tv.eternityready.com/img/logos_2/37.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=9e0c3d9f1",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "International"
+      ]
+    },
+    {
+      "name": "LOVEWORLD TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/38.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=5799cce92",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "SuperChannel  (WACX -DTV Orlando, Florida)",
+      "logo": "https://tv.eternityready.com/img/logos_2/39.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=b7f8f88fc",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others",
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "God Television (Asia)",
+      "logo": "https://tv.eternityready.com/img/logos_2/40.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=72eaadb47",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "International"
+      ]
+    },
+    {
+      "name": "ICFN",
+      "logo": "https://tv.eternityready.com/img/logos_2/12.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=0a017547d",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "God Television (Africa- Satellite Live)",
+      "logo": "https://tv.eternityready.com/img/logos_2/41.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=d0ac6f979",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "International"
+      ]
+    },
+    {
+      "name": "God Television (Australia)",
+      "logo": "https://tv.eternityready.com/img/logos_2/42.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=03484971e",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "International"
+      ]
+    },
+    {
+      "name": "God Television (UK - Satellite Live)",
+      "logo": "https://tv.eternityready.com/img/logos_2/43.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=b5d9d577c",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks",
+        "International"
+      ]
+    },
+    {
+      "name": "God Television (USA- Main Flagship Live)",
+      "logo": "https://tv.eternityready.com/img/logos_2/44.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=b19da0653",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "CBN Family",
+      "logo": "https://tv.eternityready.com/img/logos_2/45.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=18d3965d2",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "Safe TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/46.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=c45439893",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "name": "LLBN LATINO",
+      "logo": "https://tv.eternityready.com/img/logos_2/47.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=e3a35feb2",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "International"
+      ]
+    },
+    {
+      "name": "LLBN Asia",
+      "logo": "https://tv.eternityready.com/img/logos_2/48.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=fd16d80f8",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "International"
+      ]
+    },
+    {
+      "name": "LLBN Arabic",
+      "logo": "https://tv.eternityready.com/img/logos_2/49.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=736c805e6",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "International"
+      ]
+    },
+    {
+      "name": "Inspiration TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/50.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=21972a47e",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "3ABN Kids",
+      "logo": "https://tv.eternityready.com/img/logos_2/51.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=02f3eb7c5",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "name": "Gospel Broadcasting Network",
+      "logo": "https://tv.eternityready.com/img/logos_2/52.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=2f383bc9e",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "The Word Network",
+      "logo": "https://tv.eternityready.com/img/logos_2/53.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=00ef25288",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "Hope Channel",
+      "logo": "https://tv.eternityready.com/img/logos_2/54.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=b06d70d12",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "Corner Stone TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/55.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=fa458044e",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "LLBN",
+      "logo": "https://tv.eternityready.com/img/logos_2/56.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=d812d9695",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "Son Broadcasting Network",
+      "logo": "https://tv.eternityready.com/img/logos_2/57.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=61fd1ca0a",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "BEVERLY HILLBILLIES TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/58.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=d73751b34",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "name": "ABN AFRICA",
+      "logo": "https://tv.eternityready.com/img/logos_2/59.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=40907fe46",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "International"
+      ]
+    },
+    {
+      "name": "Sid Roth - It's Supernatural Network",
+      "logo": "https://tv.eternityready.com/img/logos_2/60.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=b3ee8ada4",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks",
+        "Bible Prophecy"
+      ]
+    },
+    {
+      "name": "JLTV",
+      "logo": "https://tv.eternityready.com/img/logos_2/61.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=58c01a94c",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "International",
+        "Mideast"
+      ]
+    },
+    {
+      "name": "Press TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/62.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=1056ddf04",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "News + Opinions"
+      ]
+    },
+    {
+      "name": "Nejat TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/63.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=d0c58384a",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "International"
+      ]
+    },
+    {
+      "name": "Jewish Broadcasting",
+      "logo": "https://tv.eternityready.com/img/logos_2/64.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=7f1563ac6",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "International",
+        "Mideast"
+      ]
+    },
+    {
+      "name": "WGN Chicago",
+      "logo": "https://tv.eternityready.com/img/logos_2/65.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=7969fc357",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks",
+        "News + Opinions"
+      ]
+    },
+    {
+      "name": "RT News",
+      "logo": "https://tv.eternityready.com/img/logos_2/66.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=3829e0a94",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "News + Opinions",
+     	"International"
+      ]
+    },
+    {
+      "name": "Newsmax",
+      "logo": "https://tv.eternityready.com/img/logos_2/67.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=211194897",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks",
+	    "News + Opinions"
+      ]
+    },
+    {
+      "name": "Family TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/68.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=26ac8ba3c",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "name": "Filmon Tv",
+      "logo": "https://tv.eternityready.com/img/logos_2/69.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=b789b5a3c",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "name": "3ABN! Dare to Dream",
+      "logo": "https://tv.eternityready.com/img/logos_2/70.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=a4fc306db",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "3ABN Proclaim",
+      "logo": "https://tv.eternityready.com/img/logos_2/71.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=a31875583",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "TCT Kids",
+      "logo": "https://tv.eternityready.com/img/logos_2/72.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=a2eddd6ef",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "name": "His Channel",
+      "logo": "https://tv.eternityready.com/img/logos_2/73.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=2684f323b",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "Believers Voice of Victory",
+      "logo": "https://tv.eternityready.com/img/logos_2/75.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=2e433d781",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "VertiZontal Media",
+      "logo": "https://tv.eternityready.com/img/logos_2/76.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=8775531dc",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "HARVEST TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/77.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=55058d305",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "SAT 7 Kids",
+      "logo": "https://tv.eternityready.com/img/logos_2/78.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=e2501085d",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "name": "Family Friendly Entertainment",
+      "logo": "https://tv.eternityready.com/img/logos_2/79.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=f9beb75f9",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "name": "Amazing Discoveries TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/80.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=948e48560",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Bible Prophecy"
+      ]
+    },
+    {
+      "name": "KSCE-TV Life!",
+      "logo": "https://tv.eternityready.com/img/logos_2/81.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=a69082d87",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "Gospel Truth TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/1.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=dc88a27cd",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "NRB Network",
+      "logo": "https://tv.eternityready.com/img/logos_2/2.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=5ec99c3f3",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks"
+      ]
+    },
+    {
+      "name": "CBN News",
+      "logo": "https://tv.eternityready.com/img/logos_2/3.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=8eecc7e0b",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks",
+        "Bible Prophecy",
+	     "Mideast"
+      ]
+    },
+    {
+      "name": "Mission TV",
+      "logo": "https://tv.eternityready.com/img/logos_2/4.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=8d7446713",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Top Networks",
+        "News + Opinions"
+      ]
+    },
+    {
+      "name": "Christian Youth Channel",
+      "logo": "https://tv.eternityready.com/img/logos_2/5.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=827ec2275",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Kids & Family",
+        "Mideast"
+      ]
+    },
+    {
+      "name": "Total Living Network",
+      "logo": "https://tv.eternityready.com/img/logos_2/6.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=f93f117c9",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Lifestyle + Others"
+      ]
+    },
+    {
+      "name": "The Western Channel",
+      "logo": "https://tv.eternityready.com/img/logos_2/7.jpg",
+      "link": "",
+      "embed": "https://www.eternityready.com/embed.php?vid=91a8cc413",
+      "keywords": [],
+      "rating": 3,
+      "categories": [
+        "Kids & Family"
+      ]
+    }
+  ]
+}
