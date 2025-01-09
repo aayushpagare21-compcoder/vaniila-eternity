@@ -26,7 +26,8 @@
   <meta property="twitter:description"
     content="Discover Eternity Ready Television, a free streaming service featuring over 50 faith and family live TV channels. Enjoy top Christian networks like Day Star and CBN." />
   <meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
-  <!-- Keen slider javascript -->
+  
+  <!-- Promo slider javascript -->
   <script src="https://cdn.jsdelivr.net/npm/keen-slider@6.8.5/keen-slider.min.js"></script>
   <script type="application/ld+json">
          {         
@@ -55,9 +56,9 @@
   <link rel="stylesheet" href="styles.css" />
   <link rel="stylesheet" href="main.css" />
   <link rel="stylesheet" href="footer.css" />
-  <!-- Keen slider -->
+  <!-- Promo slider CSS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/keen-slider@6.8.5/keen-slider.min.css" />
-  <link rel="stylesheet" href="./slider.css" />
+  <link rel="stylesheet" href="./promo-slider/slider.css" />
   <!-- <script src="https://cdn.tailwindcss.com"></script> -->
 </head>
 <header>
@@ -483,9 +484,10 @@
 <!-- 3 btns -->
 
 <!--  -->
+
 <body>
   <!-- <script src="https://static.elfsight.com/platform/platform.js" async></script> -->
-  
+  <!-- PROMO SLIDER'S CODE -->
   <div id="#promo-slide-container">
     <div id="promo-slider" class="keen-slider">
       <!-- DO NOT REMOVE THIS DIV -->
@@ -496,116 +498,10 @@
       <!-- THUMBNAIL SLIDES WOULD GO HERE -->
     </div>
   </div>
+
+  <!-- PROMO SLIDER'S SCRIPTS -->
   <script src="https://cdn.jsdelivr.net/npm/keen-slider@6.8.5/keen-slider.min.js"></script>
-  <script>
-    function createPromoSlide(movie) {
-      return `
-        <div class="keen-slider__slide promo_slides">
-          <img class="promo-image" src="${movie.image}" alt="${movie.title}">
-          <div id="promo-content-wrapper"> 
-              <div class="promo-content">
-            <h2>${movie.title}</h2>
-            <div class="movie-meta">
-              <span class="rating">${movie.rating}</span>
-              <span class="genre">${movie.genre}</span>
-            </div>
-            <p class="description">${movie.description}</p>
-            <a href="#" class="watch-now">
-              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <polygon points="5 3 19 12 5 21 5 3"></polygon>
-              </svg>
-              Watch Now
-            </a>
-          </div>
-            </div>
-        </div>
-      `;
-    }
-
-    function createThumbnail(movie) {
-      return `
-        <div class="keen-slider__slide thumbnail_slides">
-          <img class="thumbnail-image" src="${movie.image}" alt="${movie.title}">
-        </div>
-      `;
-    }
-    async function fetchSliderData() {
-      try {
-        const promoSliderContainer = document.getElementById('promo-slider');
-        const thumbnailContainer = document.getElementById('thumbnails');
-        const response = await fetch('promoSlider.json');
-        const movieData = await response.json();
-        console.log("movideData", movieData)
-        movieData['promoSlides'].forEach(movie => {
-          promoSliderContainer.innerHTML += createPromoSlide(movie);
-          thumbnailContainer.innerHTML += createThumbnail(movie);
-        });
-        // Initialize Keen Slider after populating the DOM
-        initializeSliders();
-      } catch (error) {
-        console.error('Error fetching slider data:', error);
-      }
-    }
-
-    function initializeSliders() {
-      const mainSlider = new KeenSlider("#promo-slider");
-      const thumbnailSlider = new KeenSlider(
-        "#thumbnails",
-        {
-          loop: true,
-
-          breakpoints: {
-            "(max-width: 2549px)": {
-              slides: { perView: 4, spacing: 8 },
-            },
-            "(max-width: 1439px)": {
-              slides: { perView: 3, spacing: 8 },
-            },
-            "(max-width: 767px)": {
-              slides: { perView: 1.5, spacing: 8 },
-            },
-          },
-        },
-        [ThumbnailPlugin(mainSlider)]
-      );
-    }
-
-    function ThumbnailPlugin(mainSlider) {
-      return (thumbnailSlider) => {
-        function removeActive() {
-          thumbnailSlider.slides.forEach((slide) => {
-            slide.classList.remove("active");
-          });
-        }
-        function addActive(idx) {
-          thumbnailSlider.slides[idx].classList.add("active");
-        }
-        function addClickEvents() {
-          thumbnailSlider.slides.forEach((slide, idx) => {
-            slide.addEventListener("click", () => {
-              mainSlider.moveToIdx(idx);
-            });
-          });
-        }
-
-        thumbnailSlider.on("created", () => {
-          addActive(thumbnailSlider.track.details.rel);
-          addClickEvents();
-          mainSlider.on("animationStarted", (main) => {
-            removeActive();
-            const next = main.animator.targetIdx || 0;
-            addActive(main.track.absToRel(next));
-            thumbnailSlider.moveToIdx(
-              Math.min(thumbnailSlider.track.details.maxIdx, next)
-            );
-          });
-        });
-      };
-    }
-    // Call the function to fetch data and initialize sliders
-    fetchSliderData();
-  </script>
-
+  <script src="./promo-slider/promoSlider.js"> </script>
 
   <div class="elfsight-app-3e4b5209-37b7-4ec8-a4dc-158005646b9b" data-elfsight-app-lazy></div>
   <main>
