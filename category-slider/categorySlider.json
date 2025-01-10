@@ -1,0 +1,90 @@
+{
+    "genres": {
+      "title": "Movie Genres",
+      "items": [
+        {
+          "title": "Action",
+          "link": "/action",
+          "count": "243 movies",
+          "image": "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?q=80&w=2056&auto=format&fit=crop"
+        },
+        {
+          "title": "Comedy",
+          "link": "/comedy",
+          "count": "186 movies",
+          "image": "https://images.unsplash.com/photo-1543584756-8f40a802e14f?q=80&w=1470&auto=format&fit=crop"
+        },
+        {
+          "title": "Horror",
+          "link": "/horror",
+          "count": "154 movies",
+          "image": "https://images.unsplash.com/photo-1626814026160-2237a95fc5a0?q=80&w=1470&auto=format&fit=crop"
+        },
+        {
+          "title": "Romance",
+          "link": "/romance",
+          "count": "198 movies",
+          "image": "https://images.unsplash.com/photo-1518621736915-f3b1c41bfd00?q=80&w=1393&auto=format&fit=crop"
+        }
+      ]
+    },
+    "languages": {
+      "title": "Languages",
+      "items": [
+        {
+          "title": "English",
+          "link": "/english",
+          "count": "523 movies",
+          "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1494&auto=format&fit=crop"
+        },
+        {
+          "title": "Hindi",
+          "link": "/hindi",
+          "count": "245 movies",
+          "image": "https://images.unsplash.com/photo-1532375810709-75b1da00537c?q=80&w=1476&auto=format&fit=crop"
+        },
+        {
+          "title": "Korean",
+          "link": "/korean",
+          "count": "178 movies",
+          "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=1925&auto=format&fit=cr"
+        },
+        {
+          "title": "Spanish",
+          "link": "/spanish",
+          "count": "156 movies",
+          "image": "https://images.unsplash.com/photo-1520175480921-4edfa2983e0f?q=80&w=1467&auto=format&fit=crop"
+        }
+      ]
+    },
+    "decades": {
+      "title": "By Decade",
+      "items": [
+        {
+          "title": "2020s",
+          "link": "/2020s",
+          "count": "167 movies",
+          "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=1925&auto=format&fit=crop"
+        },
+        {
+          "title": "2010s",
+          "link": "/2010s",
+          "count": "345 movies",
+          "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=1459&auto=format&fit=crop"
+        },
+        {
+          "title": "2000s",
+          "link": "/2000s",
+          "count": "289 movies",
+          "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=1925&auto=format&fit=crop"
+        },
+        {
+          "title": "1990s",
+          "link": "/1990s",
+          "count": "234 movies",
+          "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=1459&auto=format&fit=crop"
+        }
+      ]
+    }
+  }
+  
