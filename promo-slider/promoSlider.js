@@ -9,7 +9,7 @@ function createPromoSlide(movie) {
             <div class="promo-content">
           <h2>${movie.title}</h2>
           <div class="movie-meta">
-            <span class="rating" data-rating="${movie.rating}"></span>
+            <span class="rating rating-promo" data-rating="${movie.rating}"></span>
             <span class="genre">${movie.genre}</span>
           </div>
           <p class="description">${movie.description}</p>
