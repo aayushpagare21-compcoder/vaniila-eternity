@@ -68,13 +68,13 @@ function createSlider(category, data) {
   // Initialize Keen Slider
   const slider = new KeenSlider(`#category-keen-slider-${category}`, {
     loop: true,
-    slides: { perView: 1.5, spacing: 4 }, // Default for mobile screens
+    slides: { perView: 1, spacing: 4 }, // Default for mobile screens
     breakpoints: {
       "(min-width: 768px)": {
-        slides: { perView: 6, spacing: 8 }, // Desktop
+        slides: { perView: 4, spacing: 8 }, // Desktop
       },
-      "(min-width: 1024px)": {
-        slides: { perView: 4, spacing: 12 }, // Laptop
+      "(min-width: 2000px)": {
+        slides: { perView: 6, spacing: 12 }, // Laptop
       },
     },
   });

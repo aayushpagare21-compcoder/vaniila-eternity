@@ -26,27 +26,20 @@
     color: #FFFFFF;
 }
 
-/* Category Navigation Wrapper */
 .category-navigation-wrapper {
     position: relative;
-    height: 300px;
-    /* Fixed height */
+    height: 200px;
 }
 
 .category-keen-slider {
     height: 100%;
-    /* Take full container height */
 }
 
 .category-slide {
-    position: relative;
+    height: 100%; /* Fixed height for the slides */
     border-radius: 8px;
     overflow: hidden;
-    height: 100%;
-    /* Full height */
-    /* transition: transform 0.3s ease-in-out, height 0.3s ease-in-out, box-shadow 0.3s ease-in-out; */
     cursor: pointer;
-    /* Changes cursor to pointer */
 }
 
 .category-slide:hover {
@@ -156,5 +149,8 @@
     .category-arrow {
         width: 30px;
         height: 30px;
+    }
+    .category-slide-content  {
+        bottom: 20%;
     }
 }
